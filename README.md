@@ -4,9 +4,7 @@
 
 This repository is modified to include only the HTML files that will be used by students of B.E. EXTC of Department of Electornics & Telecommunciation Engineering at Don Bosco Institute of Technology, Mumbai to create their own portfolios.
 
-## Preview
-
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://startbootstrap.github.io/startbootstrap-resume/)
+## Preview 
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
 
